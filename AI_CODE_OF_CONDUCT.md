@@ -2,25 +2,17 @@
 
 ## Our Pledge
 
-# AI PLEDGE
+## Our Pledge
 
-In the interest
-
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age,
-body size, disability, ethnicity, sex characteristics, gender identity and
-expression, level of experience, education, socio-economic status, nationality,
-personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering responsible innovation and a welcoming community, we as contributors and maintainers pledge to ensure that all integration and use of Artifical Intelligence (AI) tools within our projects remains ethical, transparent, and safe. We commit to preventing AI systems from generating harmful, deceptive, or discriminatory content, maintaining a harassment-free enviornment for everyone regardless of age, body sze, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment
-include:
+Examples of behavior that contributes to responsible AI usage include:
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
+- Transparency: Disclosing when code, documentation, or project communication are significantly generated or assisted by AI models.
+- Human Accountability: Thoroughly reviewing, testing, and verifying all AI-generated contributions for technical accuracy, safety, and bias before submission.
+- 
 - Focusing on what is best for the community
 - Showing empathy towards other community members
 
@@ -80,3 +72,40 @@ For answers to common questions about this code of conduct, see
 <https://www.contributor-covenant.org/faq>
 
 [homepage]: https://www.contributor-covenant.o
+
+AI Use Code of Conduct
+Our Pledge
+In the interest of fostering responsible innovation and a welcoming community, we as contributors and maintainers pledge to ensure that all integration and use of Artificial Intelligence (AI) tools within our project remains ethical, transparent, and safe. We commit to preventing AI systems from generating harmful, deceptive, or discriminatory content, maintaining a harassment-free environment for everyone regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+Our Standards
+Examples of behavior that contributes to responsible AI usage include:
+
+Transparency: Disclosing when code, documentation, or project communications are significantly generated or assisted by AI models.
+
+Human Accountability: Thoroughly reviewing, testing, and verifying all AI-generated contributions for technical accuracy, safety, and bias before submission.
+
+Respecting Privacy & IP: Ensuring that no private code, personal data, or third-party intellectual property is fed into public AI training sets without authorization.
+
+Promoting Inclusivity: Auditing AI outputs to ensure they adhere to respectful language and inclusive community standards.
+
+Examples of unacceptable AI usage include:
+
+Generating toxic, sexualized, abusive, or discriminatory text, imagery, or software outputs.
+
+Submitting low-effort, unverified, or hallucinated AI contributions ("PR spam") without human validation.
+
+Inputting confidential user data or private project information into unauthorized AI platforms.
+
+Utilizing AI to design security exploits, execute automated trolling, or target community members.
+
+Our Responsibilities
+Project maintainers are responsible for establishing standards for acceptable AI integration and taking fair corrective action against misuse. Maintainers have the right to reject, modify, or remove any AI-assisted submission that fails quality standards, infringes on licensing, or compromises community safety, and may restrict access for repeat offenders.
+
+Scope
+This AI Code of Conduct applies across all project spaces whenever automated or generative AI tools are used to create code, draft documentation, open issues, or represent the project in official communications.
+
+Enforcement
+Instances of reckless, abusive, or non-compliant AI usage may be reported to the project team at gkapfham@allegheny.edu. All reports will be investigated confidentially, and appropriate remedies will be enforced promptly.
+
+Attribution
+This AI Code of Conduct is adapted from the Contributor Covenant, version 1.4, and modified to address generative AI standards and ethical machine learning practices.
