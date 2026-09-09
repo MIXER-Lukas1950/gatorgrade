@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-In the interest of fostering responsible innovation and a welcoming community, we as contributors and maintainers pledge to ensure that all integration and use of Artifical Intelligence (AI) tools within our projects remains ethical, transparent, and safe. We commit to preventing AI systems from generating harmful, deceptive, or discriminatory content, maintaining a harassment-free environment for everyone regardless of age, body sze, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering responsible innovation and a welcoming community, we as contributors and maintainers pledge to ensure that all integration and use of Artifical Intelligence (AI) tools within our projects remains ethical, transparent, and safe. We commit to preventing AI systems from generating harmful, deceptive, or discriminatory content, maintaining a harassment-free environment for everyone regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
