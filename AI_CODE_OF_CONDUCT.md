@@ -8,19 +8,19 @@ In the interest of fostering responsible innovation and a welcoming community, w
 
 Examples of behavior that contributes to responsible AI usage include:
 
-**Transparency:** Disclosing when code, documentation, or project communication are significantly generated or assisted by AI models.
+- **Transparency:** Disclosing when code, documentation, or project communication are significantly generated or assisted by AI models.
 
-**Human Accountability:** Thoroughly reviewing, testing, and verifying all AI-generated contributions for technical accuracy, safety, and bias before submission.
+- **Human Accountability:** Thoroughly reviewing, testing, and verifying all AI-generated contributions for technical accuracy, safety, and bias before submission.
 
-**Promoting Inclusivity:** Auditing AI outputs to ensure they adhere to respectful language and inclusive community standards.
+- **Promoting Inclusivity:** Auditing AI outputs to ensure they adhere to respectful language and inclusive community standards.
 
 Examples of unacceptable AI usage include:
 
-Generating toxic, sexualized, abusive, or discriminatory text, imagery, or software outputs.
+- Generating toxic, sexualized, abusive, or discriminatory text, imagery, or software outputs.
 
-Submitting low-effort, unverified, or hallucinated AI contributions without human validation.
+- Submitting low-effort, unverified, or hallucinated AI contributions without human validation.
 
-Utilizing AI to design security exploits, execute automated trolling, or target community members.
+- Utilizing AI to design security exploits, execute automated trolling, or target community members.
 
 
 ## Our Responsibilities
