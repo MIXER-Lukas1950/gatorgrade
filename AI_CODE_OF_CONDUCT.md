@@ -27,7 +27,19 @@ Project maintainers are responsible for establishing standards for acceptable AI
 
 ## Scope
 
-
+This AI Code of Conduct applies to all community members and contributors to the gatorgrade or gatorgrader project. It applies in all project spaces, including repositories, issue trackers, discussion forums, and code review platforms. This Code of Conduct may also apply when an individual is representing the project or its community in public spaces, as further defined and clarified by project maintainers.
 
 ## Enforcement
+
+This Code of Conduct applies to the use of AI tools and assistants in the gatorgrade or gatorgrader project. Project maintainers are responsible for reviewing AI-generated contributions, including code, documentation, and other project materials, to ensure they meet the standards outlined in this Code of Conduct.
+
+Instances where AI-generated content violates this Code of Conduct may be
+addressed by:
+
+- Requesting modifications or removal of the problematic content.
+- Requiring human review and revision of AI contributions before acceptance.
+- Restricting or prohibiting the use of specific AI tools in the project.
+- Removing or reverting AI-generated contributions that do not meet standards.
+
+Project maintainers have the right to refuse AI-generated contributions that are inaccurate, plagiarized, harmful, or otherwise misaligned with project values and quality standards. All AI usage in the project should be transparent and documented appropriately.
 
