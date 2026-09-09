@@ -9,7 +9,9 @@ In the interest of fostering responsible innovation and a welcoming community, w
 Examples of behavior that contributes to responsible AI usage include:
 
 **Transparency:** Disclosing when code, documentation, or project communication are significantly generated or assisted by AI models.
+
 **Human Accountability:** Thoroughly reviewing, testing, and verifying all AI-generated contributions for technical accuracy, safety, and bias before submission.
+
 **Promoting Inclusivity:** Auditing AI outputs to ensure they adhere to respectful language and inclusive community standards.
 
 Examples of unacceptable AI usage include:
