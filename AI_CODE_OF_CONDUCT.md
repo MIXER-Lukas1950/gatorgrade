@@ -1,4 +1,4 @@
-# AI CODE OF CONDUCT
+# Artificial Intelligence Code of Conduct
 
 ## Our Pledge
 
