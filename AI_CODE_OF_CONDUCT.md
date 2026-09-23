@@ -22,7 +22,6 @@ Examples of unacceptable AI usage include:
 
 - Utilizing AI to design security exploits, execute automated trolling, or target community members.
 
-
 ## Our Responsibilities
 
 Project maintainers are responsible for establishing standards for acceptable AI integration and taking fair corrective action against misuse. Maintainers have the right to reject, modify, or remove any AI-assisted submission that fails quality standards, infringes on licensing, or compromises community safety, and may restrict access for repeat offenders.
@@ -44,4 +43,3 @@ addressed by:
 - Removing or reverting AI-generated contributions that do not meet standards.
 
 Project maintainers have the right to refuse AI-generated contributions that are inaccurate, plagiarized, harmful, or otherwise misaligned with project values and quality standards. All AI usage in the project should be transparent and documented appropriately.
-
